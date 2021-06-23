@@ -1,4 +1,4 @@
-# Shimon Islam Kava Labs Take Home Assessment
+# Shimon Islam K--- L--s Take Home Assessment
 
 Done in Golang, ran in the /src directory with
 
