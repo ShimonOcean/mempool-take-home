@@ -1,5 +1,7 @@
 # Shimon Islam K--- L--s Take Home Assessment
 
+(Anonymized Company Name to prevent plagiarism)
+
 Done in Golang, ran in the /src directory with
 
 ```go run main.go``` 
