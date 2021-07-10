@@ -1,6 +1,5 @@
-# Shimon Islam K--- L--s Take Home Assessment
+# mempool using priority queue
 
-(Anonymized Company Name to prevent plagiarism)
 
 Done in Golang, ran in the /src directory with
 
